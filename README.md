@@ -7,3 +7,9 @@
 ```bash
 curl -sSL https://raw.githubusercontent.com/vladobro87/rust-desk-demo/refs/heads/main/uninstall_rustdesk.sh | bash
 ```
+
+
+## Установка
+```bash
+curl -sSL https://raw.githubusercontent.com/techahold/rustdeskinstall/master/install.sh | bash
+```
