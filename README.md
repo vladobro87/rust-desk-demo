@@ -11,5 +11,7 @@ curl -sSL https://raw.githubusercontent.com/vladobro87/rust-desk-demo/refs/heads
 
 ## Установка
 ```bash
-curl -sSL https://raw.githubusercontent.com/techahold/rustdeskinstall/master/install.sh | bash
+wget https://raw.githubusercontent.com/techahold/rustdeskinstall/master/install.sh
+chmod +x install.sh
+./install.sh
 ```
